@@ -1,0 +1,13 @@
+{
+  "name": "Developer Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2B2D42",
+  "theme_color": "#E63946",
+  "description": "Modern developer portfolio with dark theme and animations.",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
